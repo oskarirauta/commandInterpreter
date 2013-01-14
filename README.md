@@ -18,5 +18,6 @@ Note2: commandInterpreter.vCompose wants arguments in va_list commandInterpreter
 
 Note3: in examples/*/master/include is wiringSerial.c and wiringSerial.h which are from Gordon's WiringPI project: https://projects.drogon.net/raspberry-pi/wiringpi/ check license of wiringPI from his site.
 
+Note4: library and examples should work out of the box in both; Arduino 1.5.x(or newer) and MapleIDE 0.12(or newer). Examples in Arduino open a tab containing maple code which is ignored by Arduino. (this tab can be closed)
 
 License: expat ( check copying.txt )
