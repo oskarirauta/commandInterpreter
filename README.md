@@ -16,7 +16,7 @@ Note: Docs missing. Check provided examples. Master program that can be run on P
 
 Note2: commandInterpreter.vCompose wants arguments in va_list commandInterpreter->valist, commandInterpreter.compose accepts variadic arguments.
 
-
+Note3: in examples/*/master/include is wiringSerial.c and wiringSerial.h which are from Gordon's WiringPI project: https://projects.drogon.net/raspberry-pi/wiringpi/ check license of wiringPI from his site.
 
 
 License: expat ( check copying.txt )
