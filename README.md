@@ -13,6 +13,10 @@ Some features:
 Warning: Maple docs say that using mallocs is unwise. This program currently is using mallocs to initialize the linked list. This might change in future.
 
 Note: Docs missing. Check provided examples. Master program that can be run on PC/Mac/etc can be found from example's master directory with proper Makefile for GNU's g++..
+
 Note2: commandInterpreter.vCompose wants arguments in va_list commandInterpreter->valist, commandInterpreter.compose accepts variadic arguments.
+
+
+
 
 License: expat ( check copying.txt )
